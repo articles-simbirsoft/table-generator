@@ -1,0 +1,10 @@
+# IntellijIdea files
+*.iml
+.idea
+.gradle
+out
+build
+allure-results
+.DS_Store
+/src/test/resources/.DS_Store
+target
